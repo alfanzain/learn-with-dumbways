@@ -29,7 +29,3 @@ let cetakPola = tinggi => {
 }
 
 cetakPola(10)
-
-create table [table name] (
-    personid int(50) not null auto_increment primary key,
-    firstname varchar(35),middlename varchar(50),lastname varchar(50) default 'bato');
