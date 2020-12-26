@@ -11,13 +11,6 @@ Open command line.
 
 Execute `php 1.php`
 
-#### 1.php
-Install PHP 7 (built with PHP 7.3). Make sure your command line detect `php` command.
-
-Open command line.
-
-Execute `php 1.php`
-
 #### 2.js (soon)
 
 #### 3.js
