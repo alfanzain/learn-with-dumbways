@@ -11,7 +11,12 @@ Open command line.
 
 Execute `php 1.php`
 
-#### 2.js (soon)
+#### 2.js
+Install NodeJS. Make sure your command line detect `node` command.
+
+Open command line.
+
+Execute `node 3.js`
 
 #### 3.js
 Install NodeJS. Make sure your command line detect `node` command.
@@ -20,7 +25,7 @@ Open command line.
 
 Execute `node 3.js`
 
-#### Poin 4 (Waysgram)
+#### Point 4 (Waysgram)
 Copy `waysgram` folder to htdocs (XAMPP) or www (Laragon).
 
 Open index.php by localhost link. My default on Laragon (http://waysgram.localhost/index.php)
