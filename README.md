@@ -16,7 +16,7 @@ Install NodeJS. Make sure your command line detect `node` command.
 
 Open command line.
 
-Execute `node 3.js`
+Execute `node 2.js`
 
 #### 3.js
 Install NodeJS. Make sure your command line detect `node` command.
